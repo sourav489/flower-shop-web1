@@ -1,0 +1,277 @@
+
+ 
+header {
+  
+  background-color: rgb(214, 128, 175);
+
+  
+}
+.n1{
+  display:flex;
+  background-color: rgb(255, 201, 231);
+  padding 30px 30px  30px 150px;
+  padding-left: 100px;
+}
+
+.Baner{
+  padding 30px 30px  30px 150px;
+  
+  align-items: center;
+ 
+}
+
+
+.Baner h4 {
+  font-size: 70px;
+  color: rgb(1, 4, 24);
+  font-style: italic;
+  font-family: 'PT Serif', serif;
+  padding-left:10%; 
+ 
+}
+
+
+ .n1 img {
+  width:200px;
+  height: 300px;
+ 
+}
+
+.bt{
+
+  font-size: 20px;
+   color: #ffffff; 
+  background-color: #470729;
+  border:0;
+  padding: 30px;
+
+ 
+
+}
+
+
+/*Our featured flowers*/
+.heading {
+  text-align: center;
+  padding: 1.5rem0
+}
+
+.heading span {
+  font-size: 1.5rem;
+  background: rgba(112, 233, 112, 0.842);
+  color: var(--orange);
+  border-radius: .5rem;
+  padding: 1rem 1rem;
+
+
+}
+
+.heading span.space {
+  background: none;
+
+}
+
+
+  /* Our featured flowers*/
+
+  .d {
+    text-align: center;
+    color: rgb(5, 8, 168);
+    padding:"30px 30px 20px 35px  ";
+    
+    
+
+
+  }
+
+  .d h2 {
+
+    color: rgb(1, 2, 10);
+
+  }
+  .d h1 {
+font-size: small;
+    color: rgb(0, 1, 19);
+
+  }
+
+  .featured-section {
+    padding: 20px;
+    background-color: #a3afc5;
+    border-radius: 5px;
+  }
+
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+
+  .featured-card {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .featured-image {
+    margin-bottom: 10px;
+  }
+
+  .featured-image img {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  .featured-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  
+
+  .featured-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .featured-button:hover {
+    background-color: #45a049;
+  }
+
+   /* hot dell section start   */
+   .hot h4 {
+    font-size: 50px;
+    color: rgb(1, 4, 24);
+    font-style: italic;
+    font-family: 'PT Serif', serif;
+    padding-left:10%; 
+    text-align: center;
+   
+  }
+  .hot p{
+    text-align: center;
+  }
+
+
+/* Order now section start  */
+
+.i{
+  background-color: #73c286;
+}
+
+  .Order_now-form {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #4282afd0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .Order_now-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(44, 5, 117);
+  }
+
+  .Order_now-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .Order_now-form input[type="text"],
+  .Order_now-form input[type="email"],
+  .Order_now-form select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+
+  .Order_now-form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+
+
+ /* get the latest deal */
+
+
+
+ .latest {
+  
+  background-image: url(Rectangle\ 9.png);
+  background-position: center;
+  background-size: 100%;
+  font-family: sans-serif;
+  padding: 20px;
+  background-position: absolute;
+  height: 650px;
+   height : 100%; 
+  width: 100%; 
+  text-align: center;
+  color: rgb(5, 8, 168);
+
+
+
+}
+
+.latest h2 {
+
+  color: rgb(1, 2, 10);
+
+}
+.latest h1 {
+font-size: small;
+  color: rgb(0, 1, 19);
+
+}
+
+ /*  footer section  */
+
+ .footer-section {
+  background-color: #17011a;
+  padding: 30px 0;
+  color: #ffffff;
+  text-align: center;
+}
+.footer-section h4{
+font-size: 30px;
+}
+.footer-section h2{
+  font-size: 20 px;
+  }
+  .footer-section p{
+    font-size: 10px;
+    }
+    
+
+
+
+
+
+
+
+  
+ 
+   
+
+  
+
+ 
+  
